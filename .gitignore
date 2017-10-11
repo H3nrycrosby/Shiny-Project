@@ -1,7 +1,7 @@
 # rsconnect #
 #######################
 *.dcf
-tennis_shiny_app/rsconnect 
+*rsconnect/shinyapps.io 
 
 # Photos #
 #######################
