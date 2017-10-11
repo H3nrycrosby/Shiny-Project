@@ -15,7 +15,7 @@ shinyUI(dashboardPage(skin = "black",
         sidebarMenu(
             menuItem("ATP Stats", tabName = 'stats', icon = icon('signal', lib = "glyphicon")),
             menuItem('Head 2 Head', tabName = 'head2head', icon = icon('line-chart')),
-            menuItem('Tennis', tabName = 'tennis', icon = icon('map'))
+            menuItem('Country Comparison', tabName = 'tennis', icon = icon('map'))
         )
     ),
     
