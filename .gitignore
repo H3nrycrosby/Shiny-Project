@@ -1,0 +1,20 @@
+# Photos #
+i######################
+*.png
+
+# Logs and databases #
+i######################
+*.log
+*.sql
+*.sqlite
+*.csv
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
